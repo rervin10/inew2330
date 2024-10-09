@@ -22,3 +22,12 @@
 
 ### Users being comfortable and trusting our website to deliver our product is our main goal.
 
+**Employees View**
+_Allowing Employees to control stock and view what’s available helps for better customer service. Hence why login will be so necessary in the home page_
+
+## Manager View
+- Control Stock
+- Update Items
+- View Orders
+
+***LETS GET STARTED***
