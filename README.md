@@ -1,4 +1,7 @@
 # Late Night Apparel Company Proposal
+
+### Link to proposal Video: [Late Night Apparel Proposal](https://drive.google.com/file/d/1VgdbbXwhnrg_p3V-tQTihcaeHDKxPt0T/view?usp=sharing)
+
 ## Features:
 - A Modern Website
 - Allowing Customer Sign-Up
